@@ -32,7 +32,10 @@ STEP 8 : Click on   RESET  button to reset the webpage.
 
 
 ## Circuit Diagram:
-<img width="1205" height="486" alt="image" src="https://github.com/user-attachments/assets/bce94cac-3026-4598-aa57-0df0a5b7dbc1" />
+<img width="766" height="836" alt="Screenshot 2026-05-28 192001" src="https://github.com/user-attachments/assets/eb5cd604-19d7-4e43-9cf5-2a7e1e2440cd" />
+<img width="932" height="222" alt="Screenshot 2026-05-28 192017" src="https://github.com/user-attachments/assets/1cd082d0-7680-402a-b5e8-3a0a5f73d731" />
+
+
 
 
 
@@ -44,5 +47,9 @@ STEP 8 : Click on   RESET  button to reset the webpage.
     Where, R1=P+Q+X
 
     R2 = minimum we will neglect it
+## Output:
+<img width="947" height="337" alt="Screenshot 2026-05-28 192027" src="https://github.com/user-attachments/assets/8afa0912-be08-4033-a3e7-8f00da216e67" />
+
 
   ## Result: 
+  Thus, unknown inductance was measured using the Maxwell Bridge Balance condition.
