@@ -48,5 +48,5 @@ STEP 8 : Click on   RESET  button to reset the webpage.
 ## Output:
 <img width="1096" height="472" alt="image" src="https://github.com/user-attachments/assets/ce95f8f6-4d1b-4bfd-b6d2-5d1d94fb6abc" />
 
-  ## Result: 
+## Result: 
   Thus, unknown inductance was measured using the maxwell Bridge balance conditions was verified successfully.
